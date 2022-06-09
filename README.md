@@ -14,3 +14,4 @@
 - 🌱 **Serverless** and **Microservices Architecture** entusiast
 - 📫 Reach me: [twitter.com/_gmfc](https://twitter.com/_gmfc)
 - 👨‍💻 Back-end nerd
+- Building meaningful solutions for important problems
