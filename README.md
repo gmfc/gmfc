@@ -4,14 +4,14 @@
 
 ##### TODAY
 
-- 🏢 CTO at [Alicerce Edu](https://alicerceedu.com.br);
-- 🚧 Project Manager at **Alicerce Lab**;
+- 🏢 co-CEO at [Eduquest](https://eduquest.dev);
+- 🚧 Project Manager, CTO
 - ⚡️ Building Educational technology;
 
 ##### ME
 
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.py`
 - 🌱 **Serverless** and **Microservices Architecture** entusiast
-- 📫 Reach me: [twitter.com/_gmfc](https://twitter.com/_gmfc)
+- 📫 Reach me: [Bluesky/gmfc.me](https://bsky.app/profile/gmfc.me)
 - 👨‍💻 Back-end nerd
 - Building meaningful solutions for important problems
